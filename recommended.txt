@@ -2,7 +2,7 @@
 ! AdThwart extra filters - http://qux.us/adthwart
 ! Bender: Behold, the internet.
 ! Fry: My god, it's full of ads!
-! Last modified: <?php echo date("r") . "\n" ?>
+! Last modified: <?php echo date("r", filemtime(basename($_SERVER['PHP_SELF']))) . "\n" ?>
 ! Expires: 1 day
 ! AS: Priority ad servers that are blocked without querying the regular filter engine
 !AS 1133.cc
