@@ -1,8 +1,8 @@
-[Adblock Plus 1.1]
+<?php header('Content-Type: text/plain') ?>[Adblock Plus 1.1]
 ! AdThwart extra filters - http://qux.us/adthwart
 ! Bender: Behold, the internet.
 ! Fry: My god, it's full of ads!
-! Last modified: 24 Sep 2010 03:16 UTC
+! Last modified: <?php echo date("r") . "\n" ?>
 ! Expires: 1 day
 ! AS: Priority ad servers that are blocked without querying the regular filter engine
 !AS 1133.cc
