@@ -1,0 +1,139 @@
+[Adblock Plus 1.1]
+! AdThwart extra filters - http://qux.us/adthwart
+! Bender: Behold, the internet.
+! Fry: My god, it's full of ads!
+! Last modified: 24 Sep 2010 03:16 UTC
+! Expires: 1 day
+! AS: Priority ad servers that are blocked without querying the regular filter engine
+!AS 1133.cc
+!AS 2mdn.net
+!AS 247realmedia.com
+!AS 9vpp.cn
+!AS ad.doubleclick.net
+!AS ad-srv.net
+!AS ad20.net
+!AS adaos-ads.net
+!AS adbrite.com
+!AS adconion.com
+!AS adition.com
+!AS adtech.de
+!AS adfusion.com
+!AS adriver.ru
+!AS adsonar.com
+!AS adtechus.com
+!AS atwola.com
+!AS atdmt.com
+!AS cb.baidu.com
+!AS cdn.undertone.com
+!AS clickintext.com
+!AS da.feedsportal.com
+!AS edintorni.net
+!AS e-planning.net
+!AS egooad.com
+!AS falkag.net
+!AS fastclick.net
+!AS g.doubleclick.net
+!AS googleadservices.com
+!AS im.banner.t-online.de
+!AS individuad.net
+!AS intellitxt.com
+!AS kontera.com
+!AS linkworth.com
+!AS mediaclick.com
+!AS msads.net
+!AS onetad.com
+!AS pagead2.googlesyndication.com
+!AS pheedo.com
+!AS play.unionsky.cn
+!AS projectwonderful.com
+!AS rfihub.net
+!AS pubmatic.com
+!AS serving-sys.com
+!AS ubcpm.com
+!AS union001.com
+!AS vibrantmedia.com
+!AS yieldmanager.com
+!AS yieldmanager.net
+!AS zedo.com
+! NI: Don't inject initialhide stylesheet
+! We still need this because some pages' scripts break with initial-hiding (issue 190)
+!NI mail.live.com
+!NI t.sina.com.cn
+||adriver.ru^$third-party
+||content.yieldmanager.edgesuite.net^$third-party
+||cdn.undertone.com^$third-party
+||spe.atdmt.com^$third-party
+||ds.serving-sys.com^$third-party
+||googleads.g.doubleclick.net^$third-party
+||feedads.g.doubleclick.net^$third-party
+||msads.net^$third-party
+||dapper.net^$third-party
+||ac3.msn.com^$third-party
+||cdn.statics.live.spongecell.com^$third-party
+||mediaclick.com^$third-party
+||static.thepiratebay.org/img/bar.gif
+||cache.20minutes.fr/ads/
+||ads.20minutes.fr
+||celiac.com/adserv/
+||imgn.dt07.net^$third-party
+mediang.gameswelt.de/public/upload/banner/
+##div[id^=google_ads_div]
+##iframe[id^='dclkAdsFrameID']
+##.OggiPlayerContainer
+accuweather.com###ad-links-content
+amazon.com##.advertisingTable
+amazon.com##.SponsoredLinkItemTD
+americanexpress.com###paw
+bbc.co.uk###bbccom_mpu
+bbc.co.uk###bbccom_leaderboard
+bbc.co.uk###bbccom_adsense_middle
+bbc.co.uk##.adsense_mpu
+blogs.nytimes.com###google_ads_aCol
+bnet.com##.ads_vtlLink
+cnn.com###cnnVPAd
+cnn.com###sh_search_box
+cnn.com###_fw_frame_medium_rectangle
+cricinfo.com##.div300Pad
+cricinfo.com###div[id^=dclkAdsFrameID]
+deviantart.com##iframe[width="300"][height="250"]
+drop.io###dropFull
+drop.io##.fullOverlay
+encyclopediadramatica.com##iframe
+encyclopediadramatica.com##img[width="468"][height="60"]
+encyclopediadramatica.com###siteNotice
+facebook.com##.adcolumn
+facebook.com###pagelet_adbox
+flyertalk.com###forum_top_ad
+flyertalk.com##.googleAdBlock
+ft.com##.rhc-con
+gameswelt.de###gwHeaderPresents
+geeksugar.com##div[id^='swf-wrapper']
+google.com###tads
+google.com##.hn-ads
+google.com###rhs_block
+google.co.uk###rhs_block
+heise.de##.skyscraper
+hulu.com###banner_c
+linux-mag.com###curtain
+mail.google.com##.mq
+mail.live.com##iframe[width='160'][height='600']
+menshealth.com###slide_ad
+mobile-review.com###ad_ph_1
+mobile-review.com###ad_ph_2
+myspace.com###googlead2
+myspace.com##.googleafc
+newsweek.com##.ad
+pcgamer.com##.ad
+pcgamer.com##.mpu-left
+penny-arcade.com##.funding-horizontal
+penny-arcade.com##.funding-vertical
+pons.edu##div[width='728px'][height='90px']
+rai.tv###adagioOverlayer
+reddit.com###ad
+saugstube-torrent.to##div[class^='Mother_']
+sciencedaily.com###googlephoto
+sciencedaily.com###googlerelated
+seatguru.com###SGDeals
+youtube.com###google_companion_ad_div
+youtube.com###pyv-placeholder
+qux.us##.adthwartinstalled
