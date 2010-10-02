@@ -58,7 +58,6 @@
 ! NI: Don't inject initialhide stylesheet
 ! We still need this because some pages' scripts break with initial-hiding (issue 190)
 !NI mail.live.com
-!NI t.sina.com.cn
 ||adriver.ru^$third-party
 ||content.yieldmanager.edgesuite.net^$third-party
 ||cdn.undertone.com^$third-party
