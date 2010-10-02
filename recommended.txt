@@ -1,5 +1,5 @@
 <?php header('Content-Type: text/plain') ?>[Adblock Plus 1.1]
-! AdThwart extra filters - http://qux.us/adthwart
+! AdThwart extra filters - http://adthwart.qux.us
 ! Bender: Behold, the internet.
 ! Fry: My god, it's full of ads!
 ! Last modified: <?php echo date("r", filemtime(basename($_SERVER['PHP_SELF']))) . "\n" ?>
