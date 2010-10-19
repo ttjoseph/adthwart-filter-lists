@@ -76,6 +76,7 @@
 ||ads.20minutes.fr
 ||celiac.com/adserv/
 ||imgn.dt07.net^$third-party
+||legitonlinejobs.com^$third-party
 mediang.gameswelt.de/public/upload/banner/
 ##div[id^=google_ads_div]
 ##iframe[id^='dclkAdsFrameID']
