@@ -59,6 +59,7 @@
 ! We still need this because some pages' scripts break with initial-hiding (issue 190)
 !NI mail.live.com
 !NI gomockingbird.com
+!NI tuenti.com
 ||adriver.ru^$third-party
 ||content.yieldmanager.edgesuite.net^$third-party
 ||cdn.undertone.com^$third-party
@@ -99,6 +100,7 @@ cricinfo.com###div[id^=dclkAdsFrameID]
 deviantart.com##iframe[width="300"][height="250"]
 drop.io###dropFull
 drop.io##.fullOverlay
+eblogx.com##div[width='800'][height='540']
 encyclopediadramatica.com##iframe
 encyclopediadramatica.com##img[width="468"][height="60"]
 encyclopediadramatica.com###siteNotice
@@ -115,8 +117,9 @@ google.com###rhs_block
 google.co.uk###rhs_block
 heise.de##.skyscraper
 hulu.com###banner_c
+kino.to##div[class^='Mother']
 linux-mag.com###curtain
-mail.google.com##.mq
+mail.google.com##.oM
 mail.live.com##iframe[width='160'][height='600']
 menshealth.com###slide_ad
 mobile-review.com###ad_ph_1
