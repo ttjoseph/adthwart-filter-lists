@@ -79,6 +79,8 @@
 ||imgn.dt07.net^$third-party
 ||legitonlinejobs.com^$third-party
 mediang.gameswelt.de/public/upload/banner/
+serials.ws/IMg/logo.gif
+eblogx.com/amazon/amazon.php
 ##div[id^=google_ads_div]
 ##iframe[id^='dclkAdsFrameID']
 ##.OggiPlayerContainer
@@ -109,6 +111,7 @@ facebook.com###pagelet_adbox
 flyertalk.com###forum_top_ad
 flyertalk.com##.googleAdBlock
 ft.com##.rhc-con
+funlinx.to###adshot_de_layerdrfeu
 gameswelt.de###gwHeaderPresents
 geeksugar.com##div[id^='swf-wrapper']
 google.com###tads
@@ -124,9 +127,11 @@ mail.live.com##iframe[width='160'][height='600']
 menshealth.com###slide_ad
 mobile-review.com###ad_ph_1
 mobile-review.com###ad_ph_2
+mogelpower.de###sponsorads46554
 myspace.com###googlead2
 myspace.com##.googleafc
 newsweek.com##.ad
+nurgalerien.com###sponsorads46554
 pcgamer.com##.ad
 pcgamer.com##.mpu-left
 penny-arcade.com##.funding-horizontal
@@ -138,6 +143,9 @@ saugstube-torrent.to##div[class^='Mother_']
 sciencedaily.com###googlephoto
 sciencedaily.com###googlerelated
 seatguru.com###SGDeals
+spieletipps.de##div[id^='sponsorads']
+tnaflix.com###FFN_imBox
 youtube.com###google_companion_ad_div
 youtube.com###pyv-placeholder
 qux.us##.adthwartinstalled
+youporn.com###producer
