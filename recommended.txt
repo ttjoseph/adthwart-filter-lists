@@ -39,7 +39,9 @@
 !AS intellitxt.com
 !AS kontera.com
 !AS linkworth.com
+!AS max.gunggo.com
 !AS mediaclick.com
+!AS media.fastclick.net
 !AS msads.net
 !AS onetad.com
 !AS pagead2.googlesyndication.com
@@ -78,12 +80,14 @@
 ||celiac.com/adserv/
 ||imgn.dt07.net^$third-party
 ||legitonlinejobs.com^$third-party
+||ads.cnn.com^
 mediang.gameswelt.de/public/upload/banner/
 serials.ws/IMg/logo.gif
 eblogx.com/amazon/amazon.php
 ##div[id^=google_ads_div]
 ##iframe[id^='dclkAdsFrameID']
 ##.OggiPlayerContainer
+###mbEnd[cellspacing="0"][style="padding:0;white-space:nowrap"]
 accuweather.com###ad-links-content
 amazon.com##.advertisingTable
 amazon.com##.SponsoredLinkItemTD
@@ -106,6 +110,7 @@ eblogx.com##div[width='800'][height='540']
 encyclopediadramatica.com##iframe
 encyclopediadramatica.com##img[width="468"][height="60"]
 encyclopediadramatica.com###siteNotice
+eltiempo.com###eplAdDivRobapaginaNoticiasPrincipales
 facebook.com##.adcolumn
 facebook.com###pagelet_adbox
 flyertalk.com###forum_top_ad
@@ -120,6 +125,7 @@ google.com###rhs_block
 google.co.uk###rhs_block
 heise.de##.skyscraper
 hulu.com###banner_c
+imdb.com##.supertab
 kino.to##div[class^='Mother']
 linux-mag.com###curtain
 mail.google.com##.oM
@@ -145,7 +151,8 @@ sciencedaily.com###googlerelated
 seatguru.com###SGDeals
 spieletipps.de##div[id^='sponsorads']
 tnaflix.com###FFN_imBox
+webhostingtalk.com##.hc-spacer
+youporn.com###producer
 youtube.com###google_companion_ad_div
 youtube.com###pyv-placeholder
 qux.us##.adthwartinstalled
-youporn.com###producer
